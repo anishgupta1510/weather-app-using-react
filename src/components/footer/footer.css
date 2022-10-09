@@ -1,0 +1,12 @@
+.back{
+    background-color: aliceblue;
+    color: black;
+    font-weight: bold;
+    position: fixed;
+    width: 100%;
+  left: 0;
+  bottom: 0;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
