@@ -38,7 +38,7 @@
     font-weight: bolder;
     font-size: 50px;
     width: auto;
-    letter-spacing: -5px;
+    letter-spacing: -1px;
     margin: 10px 0px;
 }
 
@@ -59,17 +59,10 @@
     font-weight: bold;
 }
 
-
-
-
-
-
-
-
-
 .detailpara{
     width: 100%;
     text-align: center;
-    text-decoration: underline;
-    font-size: large;
+    /* text-decoration: underline; */
+    font-size: larger;
+    /* font-weight: bold; */
 }

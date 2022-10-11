@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&display=swap');
 .title{
     font-size: 25px;
     font-weight: 600;
     display: block;
     text-align: center;
-    text-decoration: underline;
+    
+    /* text-decoration: underline; */
 }
 
 .daily-item{
@@ -52,7 +54,7 @@
     height: 30px;
     justify-content: space-between;
     align-items: center;
-
+    font-family: 'Baloo 2', cursive;
 }
 
 .daily-details-grid-item label:first-child{
